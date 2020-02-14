@@ -1,6 +1,6 @@
 # ICS2OALGEXPO
-exploring cubing
-
+## Pyraminx
 ### 02/14/20
 Not able to solve Pyraminx
-learning algorithms
+
+earning algorithms
