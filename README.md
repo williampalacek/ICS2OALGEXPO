@@ -6,4 +6,4 @@ To learn about all the progress I have made on my cubing journey please open ICS
 
 
 
-![](Images/YuLong-M-P-S.jpg)
+![](Images/Stock%20images/YuLong-M-P-S.jpg)
