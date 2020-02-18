@@ -7,6 +7,9 @@ Solved under 30 seconds just trying to get it consistent since I only got it onc
 
 AO3 = 1:08          AO5 = 55          AO12 = 57.3
 
+### 02/18/20
+Currently manipulating algorithms to make my times faster
 
+AO3 =          AO5 =           AO12 = 
 
 ![](Images/Stock%20images/giphy.gif)
