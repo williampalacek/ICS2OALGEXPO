@@ -1,7 +1,11 @@
 # **ICS2OALGEXPO**
 ## Pyraminx
+
 #### 02/13/20
 Not able to solve Pyraminx and learning algorithms.
+
+AO3 = DNF          AO5 = DNF          AO12 = DNF
+
 #### 02/14/20
 Solved under 30 seconds just trying to get it consistent since I only got it once out of the 12 times I tried.
 
