@@ -1,4 +1,4 @@
-# ICS2OALGEXPO
+# **ICS2OALGEXPO**
 ## Pyraminx
 ### 02/13/20
 Not able to solve Pyraminx and learning algorithms.
@@ -10,6 +10,6 @@ AO3 = 1:08          AO5 = 55          AO12 = 57.3
 ### 02/18/20
 Currently manipulating algorithms to make my times faster
 
-**AO3 =          AO5 =           AO12 = 
+AO3 =          AO5 =           AO12 = 
 
 ![](Images/Stock%20images/giphy.gif)
