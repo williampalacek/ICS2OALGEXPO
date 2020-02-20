@@ -16,7 +16,10 @@ Currently manipulating algorithms to make my times faster
 
 AO3 = 56.4         AO5 =  50.1         AO12 = 49
 
+#### 02/20/20
+I solved in 17 seconds!!
 
+AO3 =          AO5 =           AO12 = 
 
 
 ![](Images/Stock%20images/giphy.gif)
