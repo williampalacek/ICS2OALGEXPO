@@ -19,7 +19,7 @@ AO3 = 56.4         AO5 =  50.1         AO12 = 49
 #### 02/20/20
 I solved in 17 seconds!!
 
-AO3 =          AO5 =           AO12 = 
+AO3 = 24.17         AO5 = 29.32           AO12 = 27.4
 
 
 ![](Images/Stock%20images/giphy.gif)
