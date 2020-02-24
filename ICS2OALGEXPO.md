@@ -24,7 +24,7 @@ AO3 = 24.17         AO5 = 29.32           AO12 = 27.4
 #### 02/24/20
 Seem to be solving just as fast as last time with no imporvment.
 
-AO3 = 27.17         AO5 = 24.32           AO12 = 29.4
+AO3 = 27.27         AO5 = 24.23           AO12 = 29.54
 
 ![](Images/Stock%20images/giphy.gif)
 
