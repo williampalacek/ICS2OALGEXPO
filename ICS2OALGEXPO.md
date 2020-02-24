@@ -21,5 +21,8 @@ I solved in 17 seconds!!
 
 AO3 = 24.17         AO5 = 29.32           AO12 = 27.4
 
+#### 02/24/20
+AO3 = 27.17         AO5 = 24.32           AO12 = 29.4
 
 ![](Images/Stock%20images/giphy.gif)
+
