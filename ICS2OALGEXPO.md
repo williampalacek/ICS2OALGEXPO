@@ -12,7 +12,7 @@ Solved under 30 seconds just trying to get it consistent since I only got it onc
 AO3 = 1:08          AO5 = 55          AO12 = 57.3
 
 #### 02/18/20
-Currently manipulating algorithms to make my times faster
+Currently manipulating algorithms to make my times faster.
 
 AO3 = 56.4         AO5 =  50.1         AO12 = 49
 
@@ -22,6 +22,8 @@ I solved in 17 seconds!!
 AO3 = 24.17         AO5 = 29.32           AO12 = 27.4
 
 #### 02/24/20
+Seem to be solving just as fast as last time with no imporvment.
+
 AO3 = 27.17         AO5 = 24.32           AO12 = 29.4
 
 ![](Images/Stock%20images/giphy.gif)
