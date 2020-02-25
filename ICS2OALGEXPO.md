@@ -27,7 +27,7 @@ Seem to be solving just as fast as last time with no imporvment.
 AO3 = 27.27         AO5 = 24.23           AO12 = 29.54
 
 #### 02/25/20
-I solved in 14.26 seconds today. i also got My valitated no inspection A03= 25.5183333
+I solved in 14.26 seconds today I also got My valitated no inspection A03= 25.5183333
 
 AO3 = 19.24         AO5 = 19.82           AO12 = 20.46
 
